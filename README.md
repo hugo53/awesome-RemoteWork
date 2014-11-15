@@ -1,4 +1,56 @@
-awesome-RemoteWork
+Awesome Remote Work
 ==================
 
-Resources for remote workers: approaches, hiring page, remote life and more.
+> A curated list of awesome resources for remote workers: hiring site, remote life, book, tool and what funny telecommunication job is. Inspired by 'awesome-' repos. All PRs are welcomed to contribute to this awesome stuff.
+
+<!---
+[]()
+-->
+
+## Table of Contents
+- [Books](#books)
+- [Experience](#experience)
+- [Hiring sites](#hiring-sites)
+- [Software](#software)
+- [Law](#law)
+
+> All resources are collected from many sources on Internet and ordered randomly.
+
+## Books
+- [Remote : Office Not Required](http://37signals.com/remote/). A great book for every newbie at remote working. As its description, _As an employer, restricting your hiring to a small geographic region means you’re not getting the best people you can. As an employee, restricting your job search to companies within a reasonable commute means you’re not working for the best company you can. REMOTE, the new book by 37signals, shows both employers and employees how they can work together, remotely, from any desk, in any space, in any place, anytime, anywhere._
+
+## Experience
+- [A Day in the Life of a Remote Developer](http://remotenation.co/blog/a-day-in-the-life-of-a-remote-developer) by Josh Black, a software engineer working at [CramerDev](http://cramerdev.com/), based in US.
+- [Working As A Remote Contract Code Monkey](https://coderwall.com/p/0ikc0w/working-as-a-remote-contract-code-monkey?p=1&q=author%3Alee101) by Lee Penkman, a software engineer, live in New Zealand and work remotely for a firm in Australia.
+- [The Joys and Benefits of Working as a Distributed Team](http://joel.is/the-joys-and-benefits-of-working-as-a-distributed-team/) by Joel Gascoigne, Co-founder and CEO at Buffer. Buffer is a company with almost employees are remote workers.
+
+## Hiring Sites
+- [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
+- [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
+- [www.reddit.com/r/forhire/new/](www.reddit.com/r/forhire/). Subreddit for hiring, not purely a remote job page but have a lots.
+
+## Software
+- [Skype](www.skype.com) for quick chat.
+- [Slack](https://slack.com/) for team communication.
+- [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
+- [Harvest](https://www.getharvest.com/), a timesheet tracking software.
+- [Desktime](http://desktime.com/), time tracking tool.
+
+## Law
+
+
+
+<!--## Credits
+This awesome list is gathered from many resources on Internet, including these below sources but not limited:-->
+
+
+
+
+
+
+
+
+<!---
+[]()
+-->
+
