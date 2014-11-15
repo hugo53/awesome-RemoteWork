@@ -27,7 +27,10 @@ Awesome Remote Work
 ## Hiring Sites
 - [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
 - [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
+- [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
 - [www.reddit.com/r/forhire/new/](www.reddit.com/r/forhire/). Subreddit for hiring, not purely a remote job page but have a lots.
+- [http://hnhiring.me/](http://hnhiring.me/) an aggregator site collects job from [HackerNews](https://news.ycombinator.com/), easier to read. 
+- [http://workinstartups.com/](http://workinstartups.com/) not all jobs are remote but it has.
 
 ## Software
 - [Skype](www.skype.com) for quick chat.
