@@ -32,6 +32,7 @@ Awesome Remote Work
 - [www.reddit.com/r/forhire/new/](www.reddit.com/r/forhire/). Subreddit for hiring, not purely a remote job page but have a lots.
 - [http://hnhiring.me/](http://hnhiring.me/) an aggregator site collects job from [HackerNews](https://news.ycombinator.com/), easier to read. 
 - [http://workinstartups.com/](http://workinstartups.com/) not all jobs are remote but it has.
+- [https://angel.co/jobs](https://angel.co/jobs), a lots of startup jobs, set filter for "Remote OK" will show remote jobs.
 - [https://remotecoder.io/](https://remotecoder.io/)
 - [http://www.authenticjobs.com/#remote](http://www.authenticjobs.com/#remote)
 - [http://www.remoteyear.com/jobs/](http://www.remoteyear.com/jobs/), job board of RemoteYear program.
