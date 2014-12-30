@@ -42,6 +42,7 @@ Awesome Remote Work
 - [http://workingnomads.co/](http://workingnomads.co/)
 - [http://www.teamed.io/](http://www.teamed.io/)
 - [www.toptal.com](www.toptal.com)
+- [http://automattic.com/work-with-us/](http://automattic.com/work-with-us/). Made [https://wordpress.com/](Wordpress.com), has remote working culture and employees are from everywhere in the world.
 
 ## Software
 - [Skype](www.skype.com) for quick chat.
