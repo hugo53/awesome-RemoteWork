@@ -49,8 +49,10 @@ Awesome Remote Work
 - [Skype](http://www.skype.com) for quick chat.
 - [Slack](https://slack.com/) for team communication.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
+- [Trello](https://trello.com/) free, flexible, and visual way to organize anything with anyone.
 - [Harvest](https://www.getharvest.com/), a timesheet tracking software.
 - [Desktime](http://desktime.com/), time tracking tool.
+- [Toggl](https://www.toggl.com/), insanely simple time tracking tool.
 - [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
 
 ## Law
