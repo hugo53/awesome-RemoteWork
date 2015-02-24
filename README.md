@@ -45,6 +45,7 @@ Awesome Remote Work
 - [http://automattic.com/work-with-us/](http://automattic.com/work-with-us/). Made [https://wordpress.com/](Wordpress.com), has remote working culture and employees are from everywhere in the world.
 - [https://www.wfh.io/](https://www.wfh.io/), 100% remote tech-oriented job board
 - [http://jobs.remotive.io/](http://jobs.remotive.io/), weekly update with remote jobs from startups.
+- [http://remoteok.io/](http://remoteok.io/) a remote job aggregator. Job from Angel List, Stackoverflow, ...
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
