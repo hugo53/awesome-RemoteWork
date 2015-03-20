@@ -47,6 +47,7 @@ Awesome Remote Work
 - [http://jobs.remotive.io/](http://jobs.remotive.io/), weekly update with remote jobs from startups.
 - [http://remoteok.io/](http://remoteok.io/) a remote job aggregator. Job from Angel List, Stackoverflow, ...
 - [http://remotus.com/](http://remotus.com/) a fulltime jobs for developers, still under construction. Seems have a lots of startup jobs.
+- [http://www.remoteworking.io/](http://www.remoteworking.io/) a curated and paid posting jobs for remote workers.
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
