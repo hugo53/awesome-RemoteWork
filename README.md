@@ -34,7 +34,7 @@ Awesome Remote Work
 - [http://workinstartups.com/](http://workinstartups.com/) not all jobs are remote but it has.
 - [https://angel.co/jobs](https://angel.co/jobs), a lots of startup jobs, set filter for "Remote OK" will show remote jobs.
 - [https://remotecoder.io/](https://remotecoder.io/)
-- [http://www.authenticjobs.com/#remote](http://www.authenticjobs.com/#remote)
+- [http://www.authenticjobs.com/#onlyremote=1](http://www.authenticjobs.com/#onlyremote=1)
 - [http://www.remoteyear.com/jobs/](http://www.remoteyear.com/jobs/), job board of RemoteYear program.
 - [http://nomadjobs.io/](http://nomadjobs.io/)
 - [http://remotehackers.com/](http://remotehackers.com/)
