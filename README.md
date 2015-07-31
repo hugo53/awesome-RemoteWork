@@ -49,10 +49,12 @@ Awesome Remote Work
 - [http://remotus.com/](http://remotus.com/) a fulltime jobs for developers, still under construction. Seems have a lots of startup jobs.
 - [http://www.remoteworking.io/](http://www.remoteworking.io/) a curated and paid posting jobs for remote workers.
 - [http://itflow.biz/](http://itflow.biz/) Collect lots of remote jobs.
+- [http://offsite.careers/](http://offsite.careers/) another offiste/telecommuting/remote job board
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
 - [Slack](https://slack.com/) for team communication.
+- [Hipchat](https://www.hipchat.com/) tool for team communication, similar to Slack. By Atlassian.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
 - [Trello](https://trello.com/) free, flexible, and visual way to organize anything with anyone.
 - [Harvest](https://www.getharvest.com/), a timesheet tracking software.
