@@ -48,9 +48,7 @@ Awesome Remote Work
 - [http://remoteok.io/](http://remoteok.io/) a remote job aggregator. Job from Angel List, Stackoverflow, ...
 - [http://remotus.com/](http://remotus.com/) a fulltime jobs for developers, still under construction. Seems have a lots of startup jobs.
 - [http://www.candoerz.com/](http://www.candoerz.com/) hourly update remote, relocate, freelance jobs aggregator. 
-- [http://www.remoteworking.io/](http://www.remoteworking.io/) a curated and paid posting jobs for remote workers.
-- [http://itflow.biz/](http://itflow.biz/) Collect lots of remote jobs.
-- [http://offsite.careers/](http://offsite.careers/) another offiste/telecommuting/remote job board
+
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
