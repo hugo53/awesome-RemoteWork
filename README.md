@@ -26,6 +26,7 @@ Awesome Remote Work
 - [The Joys and Benefits of Working as a Distributed Team](http://joel.is/the-joys-and-benefits-of-working-as-a-distributed-team/) by Joel Gascoigne, Co-founder and CEO at Buffer. Buffer is a company with almost employees are remote workers.
 
 ## Hiring Sites
+- [https://whoishiring.io/](https://whoishiring.io/)
 - [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
 - [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
 - [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
