@@ -59,6 +59,7 @@ Awesome Remote Work
 - [Harvest](https://www.getharvest.com/), a timesheet tracking software.
 - [Desktime](http://desktime.com/), time tracking tool.
 - [Toggl](https://www.toggl.com/), insanely simple time tracking tool.
+- [Qbserve](https://qotoqot.com/qbserve/), automatic productivity tracking, time tracking, and invoice generation for Mac.
 - [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
 
 ## Law
