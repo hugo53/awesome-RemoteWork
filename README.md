@@ -61,6 +61,7 @@ Awesome Remote Work
 - [Toggl](https://www.toggl.com/), insanely simple time tracking tool.
 - [Qbserve](https://qotoqot.com/qbserve/), automatic productivity tracking, time tracking, and invoice generation for Mac.
 - [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
+- [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly.
 
 ## Law
 
