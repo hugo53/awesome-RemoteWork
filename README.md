@@ -26,6 +26,8 @@ Awesome Remote Work
 - [The Joys and Benefits of Working as a Distributed Team](http://joel.is/the-joys-and-benefits-of-working-as-a-distributed-team/) by Joel Gascoigne, Co-founder and CEO at Buffer. Buffer is a company with almost employees are remote workers.
 
 ## Hiring Sites
+- [https://remotebase.io](https://remotebase.io). An open database of remote companies and jobs.
+- [https://whoishiring.io/](https://whoishiring.io/)
 - [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
 - [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
 - [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
@@ -34,26 +36,33 @@ Awesome Remote Work
 - [http://workinstartups.com/](http://workinstartups.com/) not all jobs are remote but it has.
 - [https://angel.co/jobs](https://angel.co/jobs), a lots of startup jobs, set filter for "Remote OK" will show remote jobs.
 - [https://remotecoder.io/](https://remotecoder.io/)
-- [http://www.authenticjobs.com/#remote](http://www.authenticjobs.com/#remote)
+- [http://www.authenticjobs.com/#onlyremote=1](http://www.authenticjobs.com/#onlyremote=1)
 - [http://www.remoteyear.com/jobs/](http://www.remoteyear.com/jobs/), job board of RemoteYear program.
 - [http://nomadjobs.io/](http://nomadjobs.io/)
-- [http://remotehackers.com/](http://remotehackers.com/)
 - [http://jobmote.com/](http://jobmote.com/)
 - [http://workingnomads.co/](http://workingnomads.co/)
 - [http://www.teamed.io/](http://www.teamed.io/)
 - [http://www.toptal.com](http://www.toptal.com)
 - [http://automattic.com/work-with-us/](http://automattic.com/work-with-us/). Made [https://wordpress.com/](Wordpress.com), has remote working culture and employees are from everywhere in the world.
 - [https://www.wfh.io/](https://www.wfh.io/), 100% remote tech-oriented job board
+- [http://jobs.remotive.io/](http://jobs.remotive.io/), weekly update with remote jobs from startups.
+- [http://remoteok.io/](http://remoteok.io/) a remote job aggregator. Job from Angel List, Stackoverflow, ...
+- [http://remotus.com/](http://remotus.com/) a fulltime jobs for developers, still under construction. Seems have a lots of startup jobs.
+- [http://www.candoerz.com/](http://www.candoerz.com/) hourly update remote, relocate, freelance jobs aggregator. 
+
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
 - [Slack](https://slack.com/) for team communication.
+- [Hipchat](https://www.hipchat.com/) tool for team communication, similar to Slack. By Atlassian.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
 - [Trello](https://trello.com/) free, flexible, and visual way to organize anything with anyone.
 - [Harvest](https://www.getharvest.com/), a timesheet tracking software.
 - [Desktime](http://desktime.com/), time tracking tool.
 - [Toggl](https://www.toggl.com/), insanely simple time tracking tool.
+- [Qbserve](https://qotoqot.com/qbserve/), automatic productivity tracking, time tracking, and invoice generation for Mac.
 - [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
+- [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly.
 
 ## Law
 
