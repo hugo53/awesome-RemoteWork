@@ -58,6 +58,7 @@ Awesome Remote Work
 - [Hipchat](https://www.hipchat.com/) tool for team communication, similar to Slack. By Atlassian.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
 - [Trello](https://trello.com/) free, flexible, and visual way to organize anything with anyone.
+- [Asana] (https://asana.com/) team collaboration, projects and tasks management
 - [Harvest](https://www.getharvest.com/), a timesheet tracking software.
 - [Desktime](http://desktime.com/), time tracking tool.
 - [Toggl](https://www.toggl.com/), insanely simple time tracking tool.
