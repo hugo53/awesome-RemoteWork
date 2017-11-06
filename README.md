@@ -54,6 +54,7 @@ Awesome Remote Work
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
+- [Zoom](https://zoom.us/) video conferece tool.
 - [Slack](https://slack.com/) for team communication.
 - [Hipchat](https://www.hipchat.com/) tool for team communication, similar to Slack. By Atlassian.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
