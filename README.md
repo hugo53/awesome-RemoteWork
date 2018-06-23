@@ -50,6 +50,8 @@ Awesome Remote Work
 - [http://remotus.com/](http://remotus.com/) a fulltime jobs for developers, still under construction. Seems have a lots of startup jobs.
 - [http://www.candoerz.com/](http://www.candoerz.com/) hourly update remote, relocate, freelance jobs aggregator. 
 - [https://www.fossjobs.net/](https://www.fossjobs.net/) This is the first website exclusively for Free & Open Source jobs.
+- [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html) Go/Golang jobs, filter on remote jobs
+- [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) AI/Machine learning jobs, filter on remote jobs
 
 
 ## Software
