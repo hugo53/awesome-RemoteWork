@@ -32,7 +32,7 @@ Awesome Remote Work
 - [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
 - [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
 - [http://www.reddit.com/r/forhire/new/](http://www.reddit.com/r/forhire/). Subreddit for hiring, not purely a remote job page but have a lots.
-- [http://hnhiring.me/](http://hnhiring.me/) an aggregator site collects job from [HackerNews](https://news.ycombinator.com/), easier to read.
+- [http://hnhiring.me/](http://hnhiring.me/) an aggregator site collects job from [HackerNews](https://news.ycombinator.com/), easier to read. 
 - [http://workinstartups.com/](http://workinstartups.com/) not all jobs are remote but it has.
 - [https://angel.co/jobs](https://angel.co/jobs), a lots of startup jobs, set filter for "Remote OK" will show remote jobs.
 - [https://remotecoder.io/](https://remotecoder.io/)
