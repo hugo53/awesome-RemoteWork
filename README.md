@@ -32,7 +32,7 @@ Awesome Remote Work
 - [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
 - [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
 - [http://www.reddit.com/r/forhire/new/](http://www.reddit.com/r/forhire/). Subreddit for hiring, not purely a remote job page but have a lots.
-- [http://hnhiring.me/](http://hnhiring.me/) an aggregator site collects job from [HackerNews](https://news.ycombinator.com/), easier to read. 
+- [http://hnhiring.me/](http://hnhiring.me/) an aggregator site collects job from [HackerNews](https://news.ycombinator.com/), easier to read.
 - [http://workinstartups.com/](http://workinstartups.com/) not all jobs are remote but it has.
 - [https://angel.co/jobs](https://angel.co/jobs), a lots of startup jobs, set filter for "Remote OK" will show remote jobs.
 - [https://remotecoder.io/](https://remotecoder.io/)
@@ -49,11 +49,13 @@ Awesome Remote Work
 - [http://jobs.remotive.io/](http://jobs.remotive.io/), weekly update with remote jobs from startups.
 - [http://remoteok.io/](http://remoteok.io/) a remote job aggregator. Job from Angel List, Stackoverflow, ...
 - [http://remotus.com/](http://remotus.com/) a fulltime jobs for developers, still under construction. Seems have a lots of startup jobs.
-- [http://www.candoerz.com/](http://www.candoerz.com/) hourly update remote, relocate, freelance jobs aggregator. 
+- [http://www.candoerz.com/](http://www.candoerz.com/) hourly update remote, relocate, freelance jobs aggregator.
 - [https://www.fossjobs.net/](https://www.fossjobs.net/) This is the first website exclusively for Free & Open Source jobs.
-- [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html) Go/Golang jobs, filter on remote jobs
-- [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) AI/Machine learning jobs, filter on remote jobs
-
+- [https://www.golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html) Go/Golang jobs, filter on remote jobs
+- [https://jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) AI/Machine learning jobs, filter on remote jobs
+- [https://jobspresso.co](https://jobspresso.co/) Curated list of remote jobs  
+- [https://www.skipthedrive.com](https://www.skipthedrive.com/)  Remote opportunities in all industries  
+- [https://remotejobr.com](https://remotejobr.com)  Barebones site with listing of remote roles  
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
@@ -87,4 +89,3 @@ This awesome list is gathered from many resources on Internet, including these b
 <!---
 []()
 -->
-
