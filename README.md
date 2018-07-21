@@ -49,11 +49,13 @@ Awesome Remote Work
 - [http://jobs.remotive.io/](http://jobs.remotive.io/), weekly update with remote jobs from startups.
 - [http://remoteok.io/](http://remoteok.io/) a remote job aggregator. Job from Angel List, Stackoverflow, ...
 - [http://remotus.com/](http://remotus.com/) a fulltime jobs for developers, still under construction. Seems have a lots of startup jobs.
-- [http://www.candoerz.com/](http://www.candoerz.com/) hourly update remote, relocate, freelance jobs aggregator. 
+- [http://www.candoerz.com/](http://www.candoerz.com/) hourly update remote, relocate, freelance jobs aggregator.
 - [https://www.fossjobs.net/](https://www.fossjobs.net/) This is the first website exclusively for Free & Open Source jobs.
-- [Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html) Go/Golang jobs, filter on remote jobs
-- [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) AI/Machine learning jobs, filter on remote jobs
-
+- [https://www.golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html) Go/Golang jobs, filter on remote jobs
+- [https://jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) AI/Machine learning jobs, filter on remote jobs
+- [https://jobspresso.co](https://jobspresso.co/) Curated list of remote jobs  
+- [https://www.skipthedrive.com](https://www.skipthedrive.com/)  Remote opportunities in all industries  
+- [https://remotejobr.com](https://remotejobr.com)  Barebones site with listing of remote roles  
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
@@ -87,4 +89,3 @@ This awesome list is gathered from many resources on Internet, including these b
 <!---
 []()
 -->
-
