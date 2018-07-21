@@ -56,6 +56,7 @@ Awesome Remote Work
 - [https://jobspresso.co](https://jobspresso.co/) Curated list of remote jobs  
 - [https://www.skipthedrive.com](https://www.skipthedrive.com/)  Remote opportunities in all industries  
 - [https://remotejobr.com](https://remotejobr.com)  Barebones site with listing of remote roles  
+- [http://www.soshace.com](http://www.soshace.com) a Full-time jobs for React/Angular/Vue.js/Python/Java developers.
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
