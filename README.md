@@ -60,6 +60,7 @@ Awesome Remote Work
 - [https://www.skipthedrive.com](https://www.skipthedrive.com/)  Remote opportunities in all industries  
 - [https://remotejobr.com](https://remotejobr.com)  Barebones site with listing of remote roles  
 - [http://www.soshace.com](http://www.soshace.com) a Full-time jobs for React/Angular/Vue.js/Python/Java developers.
+- [https://www.lancegator.com/](https://www.lancegator.com/) - freelance jobs aggregator
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
