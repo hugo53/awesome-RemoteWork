@@ -30,6 +30,7 @@ Awesome Remote Work
 - [https://workaline.com/](https://workaline.com/)
 - [https://remotebase.io](https://remotebase.io). An open database of remote companies and jobs.
 - [https://whoishiring.io/](https://whoishiring.io/)
+- [https://findwork.dev/](https://findwork.dev). Jobs aggregator and search engine for software jobs.
 - [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
 - [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
 - [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
