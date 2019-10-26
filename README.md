@@ -80,6 +80,7 @@ Awesome Remote Work
 - [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly.
 - [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
+- [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 
 ## Law
 
