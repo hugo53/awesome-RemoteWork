@@ -64,6 +64,7 @@ Awesome Remote Work
 - [http://www.soshace.com](http://www.soshace.com) a Full-time jobs for React/Angular/Vue.js/Python/Java developers.
 - [https://www.lancegator.com/](https://www.lancegator.com/) - freelance jobs aggregator
 - [https://fullstackjob.com/jobs/remote-ok](https://fullstackjob.com/jobs/remote-ok) - Remote OK Full-Stack Developer Jobs
+- [https://alcamine.com](https://alcamine.com) - A special inbox that protects you from recruiting spam and scores job opportunities based on your preferences, location, and keywords.
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
