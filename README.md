@@ -64,6 +64,7 @@ Awesome Remote Work
 - [http://www.soshace.com](http://www.soshace.com) a Full-time jobs for React/Angular/Vue.js/Python/Java developers.
 - [https://www.lancegator.com/](https://www.lancegator.com/) - freelance jobs aggregator
 - [https://fullstackjob.com/jobs/remote-ok](https://fullstackjob.com/jobs/remote-ok) - Remote OK Full-Stack Developer Jobs
+- [https://alcamine.com](https://alcamine.com) - A special inbox that protects you from recruiting spam and scores job opportunities based on your preferences, location, and keywords.
 - [https://tiancai.co/](https://tiancai.co/). A platform that provides vetted network of freelance devs, UI designers and PMs with software/app/web development projects - 100% remote. 
 
 ## Software
@@ -81,6 +82,8 @@ Awesome Remote Work
 - [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly.
 - [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
+- [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
+- [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 
 ## Law
 
