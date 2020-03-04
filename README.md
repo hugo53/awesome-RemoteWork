@@ -81,6 +81,7 @@ Awesome Remote Work
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly.
 - [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
+- [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 
 ## Law
 
