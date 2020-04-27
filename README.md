@@ -69,7 +69,7 @@ Awesome Remote Work
 - [https://remotehub.io](https://remotehub.io) - lists remote companies with their locations, benefits, tech stack, and more
 
 ## Software
-- [Skype](http://www.skype.com) for quick chat.
+- [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
 - [Slack](https://slack.com/) for team communication.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
