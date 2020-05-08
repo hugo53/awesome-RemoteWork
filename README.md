@@ -68,6 +68,7 @@ Awesome Remote Work
 - [https://tiancai.co/](https://tiancai.co/). A platform that provides vetted network of freelance devs, UI designers and PMs with software/app/web development projects - 100% remote. 
 - [https://remotehub.io](https://remotehub.io) - lists remote companies with their locations, benefits, tech stack, and more
 - [https://freshremote.work](https://freshremote.work/) - A lean and clean job site with daily fresh remote jobs (tech and non-tech)
+- [kaamwork](https://kaam.work) - Engineering, Data Science jobs. Work from Anywhere.
 
 ## Software
 - [Skype](http://www.skype.com) for quick chat.
@@ -85,7 +86,6 @@ Awesome Remote Work
 - [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
-- [kaamwork](https://kaam.work) - Engineering, Data Science jobs. Work from Anywhere.
 
 ## Law
 
