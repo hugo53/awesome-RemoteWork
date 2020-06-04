@@ -71,7 +71,7 @@ Awesome Remote Work
 - [kaamwork](https://kaam.work) - Engineering, Data Science jobs. Work from Anywhere.
 
 ## Software
-- [Skype](http://www.skype.com) for quick chat.
+- [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
 - [Slack](https://slack.com/) for team communication.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
