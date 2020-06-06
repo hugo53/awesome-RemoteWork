@@ -86,6 +86,9 @@ Awesome Remote Work
 - [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
+- [RemoteTeam](https://www.remoteteam.com/) - Remote OS that makes operating your remote team seamless.
+- [Remotion](https://remotion.com/) - Video chat tool that makes feel your team closer.
+- [Snap Camera](https://snapcamera.snapchat.com/) - Desktop app that brings snapchat filters to your meetings.
 
 ## Law
 
