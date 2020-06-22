@@ -25,6 +25,7 @@ Awesome Remote Work
 - [Working As A Remote Contract Code Monkey](https://coderwall.com/p/0ikc0w/working-as-a-remote-contract-code-monkey?p=1&q=author%3Alee101) by Lee Penkman, a software engineer, live in New Zealand and work remotely for a firm in Australia.
 - [The Joys and Benefits of Working as a Distributed Team](http://joel.is/the-joys-and-benefits-of-working-as-a-distributed-team/) by Joel Gascoigne, Co-founder and CEO at Buffer. Buffer is a company with almost employees are remote workers.
 - [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/) by Sarah McCasland a product manager at Modus Create.
+- [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication//) by Snir David.
 
 ## Hiring Sites
 - [https://workaline.com/](https://workaline.com/)
