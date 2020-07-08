@@ -70,6 +70,7 @@ Awesome Remote Work
 - [https://remotehub.io](https://remotehub.io) - lists remote companies with their locations, benefits, tech stack, and more
 - [https://freshremote.work](https://freshremote.work/) - A lean and clean job site with daily fresh remote jobs (tech and non-tech)
 - [kaamwork](https://kaam.work) - Engineering, Data Science jobs. Work from Anywhere.
+- [https://employbl.com](https://employbl.com/job-listings) - Find remote jobs for Bay Area tech companies and startups
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
