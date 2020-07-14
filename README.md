@@ -70,6 +70,7 @@ Awesome Remote Work
 - [https://remotehub.io](https://remotehub.io) - lists remote companies with their locations, benefits, tech stack, and more
 - [https://freshremote.work](https://freshremote.work/) - A lean and clean job site with daily fresh remote jobs (tech and non-tech)
 - [kaamwork](https://kaam.work) - Engineering, Data Science jobs. Work from Anywhere.
+- [https://rubyonremote.com](https://rubyonremote.com/) - Ruby On Remote, All ruby remote jobs in one place.
 - [http://remoteclub.io/](http://remoteclub.io/) a remote job board showcasing both jobs and candidates
 
 ## Software
