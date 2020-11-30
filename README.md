@@ -18,6 +18,7 @@ Awesome Remote Work
 
 ## Books
 - [Remote : Office Not Required](http://37signals.com/remote/). A great book for every newbie at remote working. As its description, _As an employer, restricting your hiring to a small geographic region means you’re not getting the best people you can. As an employee, restricting your job search to companies within a reasonable commute means you’re not working for the best company you can. REMOTE, the new book by 37signals, shows both employers and employees how they can work together, remotely, from any desk, in any space, in any place, anytime, anywhere._
+- [Remote Mob Programming](http://leanpub.com/remotemobprogramming). Remote Mob Programming combines two ways of working: Mob Programming and working as a distributed team. Jochen Christ, Simon Harrer and Martin Huber share their experience with their working model - and why they don’t want to work differently anymore.
 
 ## Experience
 - [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.bufferapp.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/) by Colin Ross, Chief back-end at Buffer.
@@ -26,6 +27,7 @@ Awesome Remote Work
 - [The Joys and Benefits of Working as a Distributed Team](http://joel.is/the-joys-and-benefits-of-working-as-a-distributed-team/) by Joel Gascoigne, Co-founder and CEO at Buffer. Buffer is a company with almost employees are remote workers.
 - [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/) by Sarah McCasland a product manager at Modus Create.
 - [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication//) by Snir David.
+- [Effective Homeoffice: An opinionated guide to effectively work from home](https://effectivehomeoffice.com/) by Jochen Christ and Simon Harrer at INNOQ.
 
 ## Hiring Sites
 - [https://workaline.com/](https://workaline.com/)
@@ -90,6 +92,7 @@ Awesome Remote Work
 - [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
+- [mob](https://mob.sh) - CLI tool for sswift GitHandover.
 
 ## Law
 
