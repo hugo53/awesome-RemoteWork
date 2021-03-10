@@ -29,6 +29,7 @@ Awesome Remote Work
 
 ## Hiring Sites
 - [https://workaline.com/](https://workaline.com/)
+- [https://remotesome.com/](https://remotesome.com/). Full-time remote-first enginnering jobs.
 - [https://whoishiring.io/](https://whoishiring.io/)
 - [https://findwork.dev/](https://findwork.dev). Jobs aggregator and search engine for software jobs.
 - [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
