@@ -78,6 +78,7 @@ Awesome Remote Work
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
 - [Slack](https://slack.com/) for team communication.
+- [Edworking](https://edworking.com/) One platform for you and your team. Try the best experience with everything that you need for a remote work together. Your task, your chats, your files, your videoconferences working together like team.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
 - [Trello](https://trello.com/) free, flexible, and visual way to organize anything with anyone.
 - [Asana](https://asana.com/) team collaboration, projects and tasks management.
@@ -90,6 +91,7 @@ Awesome Remote Work
 - [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
+-
 
 ## Law
 
