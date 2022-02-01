@@ -30,6 +30,7 @@ Awesome Remote Work
 - [Effective Homeoffice: An opinionated guide to effectively work from home](https://effectivehomeoffice.com/) by Jochen Christ and Simon Harrer at INNOQ.
 
 ## Hiring Sites
+- [https://himalayas.app](https://himalayas.app) a dedicated remote job board
 - [https://workaline.com/](https://workaline.com/)
 - [https://whoishiring.io/](https://whoishiring.io/)
 - [https://findwork.dev/](https://findwork.dev). Jobs aggregator and search engine for software jobs.
