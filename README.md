@@ -81,6 +81,7 @@ Awesome Remote Work
 - [https://kube.careers/remote-kubernetes-jobs](https://kube.careers/remote-kubernetes-jobs) A Curated list of remote Kubernetes jobs
 - [https://4dayweek.io/](https://4dayweek.io/) Remote Software Jobs with a 4 day work week.
 - [https://remotetify.com/](https://remotetify.com/) The best curated remote jobs for those looking to start a telecommuting career.
+- [https://www.realworkfromanywhere.com/](https://www.realworkfromanywhere.com/) a site for fully location independent jobs. 100% work from anywhere.
 - [https://www.onstrider.com/](https://www.onstrider.com/) Get a remote job with a top international company.
 - [https://www.golangjob.xyz](https://www.golangjob.xyz/remote/jobs) Golang Remote Jobs
 - [https://reactjsjob.com](https://reactjsjob.com/remote/jobs) Remote React Jobs
