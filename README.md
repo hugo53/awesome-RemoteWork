@@ -31,8 +31,10 @@ Awesome Remote Work
 
 ## Hiring Sites
 - [https://workaline.com/](https://workaline.com/)
+- [https://remotesome.com/](https://remotesome.com/). Full-time remote-first enginnering jobs.
 - [https://whoishiring.io/](https://whoishiring.io/)
 - [https://findwork.dev/](https://findwork.dev). Jobs aggregator and search engine for software jobs.
+- [https://careervault.io](https://www.careervault.io). Thousands of remote jobs scraped every few hours from 900+ companies.
 - [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
 - [https://dailyremote.com](https://dailyremote.com). Filter and find remote jobs for every role!
 - [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
@@ -76,6 +78,8 @@ Awesome Remote Work
 - [https://rubyonremote.com](https://rubyonremote.com/) - Ruby On Remote, All ruby remote jobs in one place.
 - [http://remoteclub.io/](http://remoteclub.io/) a remote job board showcasing both jobs and candidates
 - [https://kube.careers/remote-kubernetes-jobs](https://kube.careers/remote-kubernetes-jobs) A Curated list of remote Kubernetes jobs
+- [https://4dayweek.io/](https://4dayweek.io/) Remote Software Jobs with a 4 day work week.
+- [https://remotetify.com/](https://remotetify.com/) The best curated remote jobs for those looking to start a telecommuting career.
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
