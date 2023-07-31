@@ -77,7 +77,6 @@ Awesome Remote Work
 - [https://alcamine.com](https://alcamine.com) - A special inbox that protects you from recruiting spam and scores job opportunities based on your preferences, location, and keywords.
 - [https://tiancai.co/](https://tiancai.co/). A platform that provides vetted network of freelance devs, UI designers and PMs with software/app/web development projects - 100% remote. 
 - [https://remotehub.io](https://remotehub.io) - lists remote companies with their locations, benefits, tech stack, and more
-- [https://freshremote.work](https://freshremote.work/) - A lean and clean job site with daily fresh remote jobs (tech and non-tech)
 - [kaamwork](https://kaam.work) - Engineering, Data Science jobs. Work from Anywhere.
 - [https://employbl.com](https://employbl.com/job-listings) - Find remote jobs for Bay Area tech companies and startups
 - [https://rubyonremote.com](https://rubyonremote.com/) - Ruby On Remote, All ruby remote jobs in one place.
