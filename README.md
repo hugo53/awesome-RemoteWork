@@ -1,4 +1,4 @@
-<h4 style="text-align: center;">Sponsor: ✨ <a href="https://mindmac.app" target=_blank">MindMac</a> now offers 30% OFF on all plans for first purchase with code WELCOME30 💖. See details below!</h4>
+<h4 style="text-align: center;">✨ Sponsor: <a href="https://mindmac.app" target=_blank">MindMac</a> now offers 30% OFF on all plans for first purchase with code WELCOME30 💖. See details below!</h4>
 
 Awesome Remote Work
 ==================
