@@ -69,7 +69,7 @@ Awesome Remote Work
 - [https://remotejobr.com](https://remotejobr.com)  Barebones site with listing of remote roles  
 - [http://www.soshace.com](http://www.soshace.com) a Full-time jobs for React/Angular/Vue.js/Python/Java developers.
 - [https://www.lancegator.com/](https://www.lancegator.com/) - freelance jobs aggregator
-- [https://fullstackjob.com/jobs/remote-ok](https://fullstackjob.com/jobs/remote-ok) - Remote OK Full-Stack Developer Jobs
+- [https://fullstackjob.com/remote/jobs](https://fullstackjob.com/remote/jobs) - Remote Full-Stack Developer Jobs
 - [https://alcamine.com](https://alcamine.com) - A special inbox that protects you from recruiting spam and scores job opportunities based on your preferences, location, and keywords.
 - [https://tiancai.co/](https://tiancai.co/). A platform that provides vetted network of freelance devs, UI designers and PMs with software/app/web development projects - 100% remote. 
 - [https://remotehub.io](https://remotehub.io) - lists remote companies with their locations, benefits, tech stack, and more
@@ -81,6 +81,8 @@ Awesome Remote Work
 - [https://kube.careers/remote-kubernetes-jobs](https://kube.careers/remote-kubernetes-jobs) A Curated list of remote Kubernetes jobs
 - [https://4dayweek.io/](https://4dayweek.io/) Remote Software Jobs with a 4 day work week.
 - [https://remotetify.com/](https://remotetify.com/) The best curated remote jobs for those looking to start a telecommuting career.
+- [https://www.golangjob.xyz](https://www.golangjob.xyz/remote/jobs) Golang Remote Jobs
+- [https://reactjsjob.com](https://reactjsjob.com/remote/jobs) Remote React Jobs
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
