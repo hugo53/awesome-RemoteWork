@@ -1,3 +1,5 @@
+<h4 style="text-align: center;">Sponsor: ✨ <a href="https://mindmac.app" target=_blank">MindMac</a> now offers 30% OFF on all plans for first purchase with code WELCOME30 💖. See details below!</h4>
+
 Awesome Remote Work
 ==================
 
@@ -13,6 +15,7 @@ Awesome Remote Work
 - [Hiring sites](#hiring-sites)
 - [Software](#software)
 - [Law](#law)
+- [Sponsor](#sponsor)
 
 > All resources are collected from many sources on Internet and ordered randomly.
 
@@ -108,6 +111,21 @@ Awesome Remote Work
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
 
 ## Law
+
+## Sponsor
+This repository is backed by [MindMac](https://mindmac.app), a user-friendly, fully customizable and **privacy-first** native app that enables seamless connection and effortless chatting with ChatGPT on macOS. It can be highly beneficial for your professional tasks. 
+
+✨ For a limited-time, MindMac now offers 30% OFF on all plans for first purchase with code WELCOME30. Let’s check it out if you find this helpful 💖!
+
+![conversation-trimmed-2-4k-up-speed-crf23](https://github.com/hugo53/awesome-RemoteWork/assets/1033299/646dd241-274d-4527-9ce5-c6e54dda8a86)
+
+
+
+https://github.com/hugo53/awesome-RemoteWork/assets/1033299/75e2eafb-e922-4288-ac82-67a631dd1ade
+
+
+
+
 
 
 
