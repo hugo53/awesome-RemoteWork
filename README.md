@@ -33,6 +33,7 @@ Awesome Remote Work
 - [https://workaline.com/](https://workaline.com/)
 - [https://whoishiring.io/](https://whoishiring.io/)
 - [https://findwork.dev/](https://findwork.dev). Jobs aggregator and search engine for software jobs.
+- [https://careervault.io](https://www.careervault.io). Thousands of remote jobs scraped every few hours from 900+ companies.
 - [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
 - [https://dailyremote.com](https://dailyremote.com). Filter and find remote jobs for every role!
 - [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
