@@ -44,7 +44,7 @@ Awesome Remote Work
 - [https://dailyremote.com](https://dailyremote.com). Filter and find remote jobs for every role!
 - [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
 - [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
-- [https://remoterole.com/](https://remoterole.com/) a job board exlusively for remote and remote-friendly jobs.
+- [https://remoterole.com/](https://remoterole.com/) a job board exclusively for remote and remote-friendly jobs.
 - [http://www.reddit.com/r/forhire/new/](http://www.reddit.com/r/forhire/). Subreddit for hiring, not purely a remote job page but have a lots.
 - [http://hnhiring.me/](http://hnhiring.me/) an aggregator site collects job from [HackerNews](https://news.ycombinator.com/), easier to read. 
 - [http://workinstartups.com/](http://workinstartups.com/) not all jobs are remote but it has.
@@ -88,6 +88,7 @@ Awesome Remote Work
 - [https://www.onstrider.com/](https://www.onstrider.com/) Get a remote job with a top international company.
 - [https://www.golangjob.xyz](https://www.golangjob.xyz/remote/jobs) Golang Remote Jobs
 - [https://reactjsjob.com](https://reactjsjob.com/remote/jobs) Remote React Jobs
+- [https://europeanremote.com](https://europeanremote.com) - selected European tech opportunities every week in your inbox
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
