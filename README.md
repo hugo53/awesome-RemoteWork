@@ -89,6 +89,7 @@ Awesome Remote Work
 - [https://www.golangjob.xyz](https://www.golangjob.xyz/remote/jobs) Golang Remote Jobs
 - [https://reactjsjob.com](https://reactjsjob.com/remote/jobs) Remote React Jobs
 - [https://europeanremote.com](https://europeanremote.com) - selected European tech opportunities every week in your inbox
+- [https://okjob.io](https://www.okjob.io) - 4 day week job board
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
