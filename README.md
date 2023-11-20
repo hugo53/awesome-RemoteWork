@@ -35,22 +35,18 @@ Awesome Remote Work
 
 ## Hiring Sites
 - [https://himalayas.app](https://himalayas.app) a dedicated remote job board
-- [https://workaline.com/](https://workaline.com/)
 - [https://remotesome.com/](https://remotesome.com/). Full-time remote-first enginnering jobs.
 - [https://whoishiring.io/](https://whoishiring.io/)
 - [https://findwork.dev/](https://findwork.dev). Jobs aggregator and search engine for software jobs.
 - [https://careervault.io](https://www.careervault.io). Thousands of remote jobs scraped every few hours from 900+ companies.
 - [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
 - [https://dailyremote.com](https://dailyremote.com). Filter and find remote jobs for every role!
-- [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
 - [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
-- [https://remoterole.com/](https://remoterole.com/) a job board exclusively for remote and remote-friendly jobs.
 - [http://www.reddit.com/r/forhire/new/](http://www.reddit.com/r/forhire/). Subreddit for hiring, not purely a remote job page but have a lots.
 - [http://hnhiring.me/](http://hnhiring.me/) an aggregator site collects job from [HackerNews](https://news.ycombinator.com/), easier to read. 
 - [http://workinstartups.com/](http://workinstartups.com/) not all jobs are remote but it has.
 - [https://angel.co/jobs](https://angel.co/jobs), a lots of startup jobs, set filter for "Remote OK" will show remote jobs.
 - [http://www.asklorem.com/](http://www.asklorem.com/) freelance jobs for developers and designers, 100% remote.
-- [https://remotecoder.io/](https://remotecoder.io/)
 - [http://www.authenticjobs.com/#onlyremote=1](http://www.authenticjobs.com/#onlyremote=1)
 - [http://www.remoteyear.com/jobs/](http://www.remoteyear.com/jobs/), job board of RemoteYear program.
 - [http://nomadjobs.io/](http://nomadjobs.io/)
@@ -58,12 +54,10 @@ Awesome Remote Work
 - [http://workingnomads.co/](http://workingnomads.co/)
 - [http://www.teamed.io/](http://www.teamed.io/)
 - [http://www.toptal.com](http://www.toptal.com)
-- [wemake.services](https://wemake.services/)
 - [http://automattic.com/work-with-us/](http://automattic.com/work-with-us/). Made [https://wordpress.com/](Wordpress.com), has remote working culture and employees are from everywhere in the world.
 - [http://jobs.remotive.io/](http://jobs.remotive.io/), weekly update with remote jobs from startups.
 - [http://remoteok.io/](http://remoteok.io/) a remote job aggregator. Job from Angel List, Stackoverflow, ...
 - [http://remotus.com/](http://remotus.com/) a fulltime jobs for developers, still under construction. Seems have a lots of startup jobs.
-- [http://www.candoerz.com/](http://www.candoerz.com/) hourly update remote, relocate, freelance jobs aggregator.
 - [https://www.fossjobs.net/](https://www.fossjobs.net/) This is the first website exclusively for Free & Open Source jobs.
 - [https://www.golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html) Go/Golang jobs, filter on remote jobs
 - [https://jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) AI/Machine learning jobs, filter on remote jobs
@@ -73,13 +67,11 @@ Awesome Remote Work
 - [http://www.soshace.com](http://www.soshace.com) a Full-time jobs for React/Angular/Vue.js/Python/Java developers.
 - [https://www.lancegator.com/](https://www.lancegator.com/) - freelance jobs aggregator
 - [https://fullstackjob.com/remote/jobs](https://fullstackjob.com/remote/jobs) - Remote Full-Stack Developer Jobs
-- [https://alcamine.com](https://alcamine.com) - A special inbox that protects you from recruiting spam and scores job opportunities based on your preferences, location, and keywords.
 - [https://tiancai.co/](https://tiancai.co/). A platform that provides vetted network of freelance devs, UI designers and PMs with software/app/web development projects - 100% remote. 
 - [https://remotehub.io](https://remotehub.io) - lists remote companies with their locations, benefits, tech stack, and more
 - [kaamwork](https://kaam.work) - Engineering, Data Science jobs. Work from Anywhere.
 - [https://employbl.com](https://employbl.com/job-listings) - Find remote jobs for Bay Area tech companies and startups
 - [https://rubyonremote.com](https://rubyonremote.com/) - Ruby On Remote, All ruby remote jobs in one place.
-- [http://remoteclub.io/](http://remoteclub.io/) a remote job board showcasing both jobs and candidates
 - [https://kube.careers/remote-kubernetes-jobs](https://kube.careers/remote-kubernetes-jobs) A Curated list of remote Kubernetes jobs
 - [https://4dayweek.io/](https://4dayweek.io/) Remote Software Jobs with a 4 day work week.
 - [https://remotetify.com/](https://remotetify.com/) The best curated remote jobs for those looking to start a telecommuting career.
@@ -90,10 +82,12 @@ Awesome Remote Work
 - [https://reactjsjob.com](https://reactjsjob.com/remote/jobs) Remote React Jobs
 - [https://europeanremote.com](https://europeanremote.com) - selected European tech opportunities every week in your inbox
 - [https://okjob.io](https://www.okjob.io) - 4 day week job board
+- [https://torre.ai](https://torre.ai) - AI based recruiting process
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
+- [Jitsi](https://meet.jit.si) - FOSS video conferencing
 - [LambdaTest](https://www.lambdatest.com/) Cross Browser Testing Platform.
 - [Slack](https://slack.com/) for team communication.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
