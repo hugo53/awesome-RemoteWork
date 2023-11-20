@@ -87,6 +87,7 @@ Awesome Remote Work
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
+- [Jitsi](https://meet.jit.si) - FOSS video conferencing
 - [LambdaTest](https://www.lambdatest.com/) Cross Browser Testing Platform.
 - [Slack](https://slack.com/) for team communication.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
