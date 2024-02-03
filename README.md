@@ -90,6 +90,7 @@ Awesome Remote Work
 - [https://reactjsjob.com](https://reactjsjob.com/remote/jobs) Remote React Jobs
 - [https://europeanremote.com](https://europeanremote.com) - selected European tech opportunities every week in your inbox
 - [https://okjob.io](https://www.okjob.io) - 4 day week job board
+- [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
