@@ -110,6 +110,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [Study Near Me](https://studynearme.com/) - directory to find laptop-friendly cafes and workspaces for remote work across the US.
 
 ## Law
 
