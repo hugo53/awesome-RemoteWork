@@ -85,6 +85,7 @@ Awesome Remote Work
 - [https://remotetify.com/](https://remotetify.com/) The best curated remote jobs for those looking to start a telecommuting career.
 - [https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) Remote Jobs for UI & UX Designers
 - [https://www.realworkfromanywhere.com/](https://www.realworkfromanywhere.com/) a site for fully location independent jobs. 100% work from anywhere.
+- [https://job.careers/](https://job.careers/) a website share free remote jobs from ATS like greenhouse, lever, workable etc, easy to rember domain, clean design, no login required
 - [https://www.onstrider.com/](https://www.onstrider.com/) Get a remote job with a top international company.
 - [https://www.golangjob.xyz](https://www.golangjob.xyz/remote/jobs) Golang Remote Jobs
 - [https://reactjsjob.com](https://reactjsjob.com/remote/jobs) Remote React Jobs
