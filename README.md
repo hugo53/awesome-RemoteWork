@@ -112,6 +112,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [Vedika API](https://vedika.io) - Vedic astrology API with AI chatbot for developers building horoscope, kundali, and panchang apps. Supports 22 languages with FREE sandbox environment.
 
 ## Law
 
