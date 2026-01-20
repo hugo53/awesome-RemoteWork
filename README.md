@@ -57,6 +57,7 @@ Awesome Remote Work
 - [http://jobmote.com/](http://jobmote.com/)
 - [http://workingnomads.co/](http://workingnomads.co/)
 - [http://www.teamed.io/](http://www.teamed.io/)
+- [https://betterremotejobs.com/](https://betterremotejobs.com/)
 - [http://www.toptal.com](http://www.toptal.com)
 - [wemake.services](https://wemake.services/)
 - [http://automattic.com/work-with-us/](http://automattic.com/work-with-us/). Made [https://wordpress.com/](Wordpress.com), has remote working culture and employees are from everywhere in the world.
@@ -93,6 +94,7 @@ Awesome Remote Work
 - [https://europeanremote.com](https://europeanremote.com) - selected European tech opportunities every week in your inbox
 - [https://okjob.io](https://www.okjob.io) - 4 day week job board
 - [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
+- [https://www.moaijobs.com/](https://www.moaijobs.com/) - Job board for Artificial Intelligence jobs
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
