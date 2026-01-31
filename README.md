@@ -22,6 +22,7 @@ Awesome Remote Work
 ## Books
 - [Remote : Office Not Required](http://37signals.com/remote/). A great book for every newbie at remote working. As its description, _As an employer, restricting your hiring to a small geographic region means you’re not getting the best people you can. As an employee, restricting your job search to companies within a reasonable commute means you’re not working for the best company you can. REMOTE, the new book by 37signals, shows both employers and employees how they can work together, remotely, from any desk, in any space, in any place, anytime, anywhere._
 - [Remote Mob Programming](https://leanpub.com/remotemobprogramming). Remote Mob Programming combines two ways of working: Mob Programming and working as a distributed team. Jochen Christ, Simon Harrer and Martin Huber share their experience with their working model - and why they don’t want to work differently anymore.
+- [Remote Excellence](https://remote-excellence.guide). A free Book to running remote-first teams. 40 short principles covering trust, async communication, tools, hiring, and scaling distributed organizations.
 
 ## Experience
 - [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.bufferapp.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/) by Colin Ross, Chief back-end at Buffer.
@@ -46,7 +47,7 @@ Awesome Remote Work
 - [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
 - [https://remoterole.com/](https://remoterole.com/) a job board exclusively for remote and remote-friendly jobs.
 - [http://www.reddit.com/r/forhire/new/](http://www.reddit.com/r/forhire/). Subreddit for hiring, not purely a remote job page but have a lots.
-- [http://hnhiring.me/](http://hnhiring.me/) an aggregator site collects job from [HackerNews](https://news.ycombinator.com/), easier to read. 
+- [http://hnhiring.me/](http://hnhiring.me/) an aggregator site collects job from [HackerNews](https://news.ycombinator.com/), easier to read.
 - [http://workinstartups.com/](http://workinstartups.com/) not all jobs are remote but it has.
 - [https://angel.co/jobs](https://angel.co/jobs), a lots of startup jobs, set filter for "Remote OK" will show remote jobs.
 - [http://www.asklorem.com/](http://www.asklorem.com/) freelance jobs for developers and designers, 100% remote.
@@ -67,15 +68,15 @@ Awesome Remote Work
 - [https://www.fossjobs.net/](https://www.fossjobs.net/) This is the first website exclusively for Free & Open Source jobs.
 - [https://www.golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html) Go/Golang jobs, filter on remote jobs
 - [https://jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) AI/Machine learning jobs, filter on remote jobs
-- [https://jobspresso.co](https://jobspresso.co/) Curated list of remote jobs  
+- [https://jobspresso.co](https://jobspresso.co/) Curated list of remote jobs
 - [https://www.skipthedrive.com](https://www.skipthedrive.com/)  Remote opportunities in all industries
-- [https://www.remotejobassistant.com](https://www.remotejobassistant.com)  Remote job assistant that helps you find and land remote jobs.  Specializes in non-technical roles.   
-- [https://remotejobr.com](https://remotejobr.com)  Barebones site with listing of remote roles  
+- [https://www.remotejobassistant.com](https://www.remotejobassistant.com)  Remote job assistant that helps you find and land remote jobs.  Specializes in non-technical roles.
+- [https://remotejobr.com](https://remotejobr.com)  Barebones site with listing of remote roles
 - [http://www.soshace.com](http://www.soshace.com) a Full-time jobs for React/Angular/Vue.js/Python/Java developers.
 - [https://www.lancegator.com/](https://www.lancegator.com/) - freelance jobs aggregator
 - [https://fullstackjob.com/remote/jobs](https://fullstackjob.com/remote/jobs) - Remote Full-Stack Developer Jobs
 - [https://alcamine.com](https://alcamine.com) - A special inbox that protects you from recruiting spam and scores job opportunities based on your preferences, location, and keywords.
-- [https://tiancai.co/](https://tiancai.co/). A platform that provides vetted network of freelance devs, UI designers and PMs with software/app/web development projects - 100% remote. 
+- [https://tiancai.co/](https://tiancai.co/). A platform that provides vetted network of freelance devs, UI designers and PMs with software/app/web development projects - 100% remote.
 - [https://remotehub.io](https://remotehub.io) - lists remote companies with their locations, benefits, tech stack, and more
 - [kaamwork](https://kaam.work) - Engineering, Data Science jobs. Work from Anywhere.
 - [https://employbl.com](https://employbl.com/job-listings) - Find remote jobs for Bay Area tech companies and startups
@@ -116,7 +117,7 @@ Awesome Remote Work
 ## Law
 
 ## Sponsor
-This repository is backed by [MindMac](https://mindmac.app), a user-friendly, fully customizable and **privacy-first** native app that enables seamless connection and effortless chatting with ChatGPT on macOS. It can be highly beneficial for your professional tasks. 
+This repository is backed by [MindMac](https://mindmac.app), a user-friendly, fully customizable and **privacy-first** native app that enables seamless connection and effortless chatting with ChatGPT on macOS. It can be highly beneficial for your professional tasks.
 
 ✨ For a limited-time, MindMac now offers 30% OFF on all plans for first purchase with code WELCOME30. Let’s check it out if you find this helpful 💖!
 
