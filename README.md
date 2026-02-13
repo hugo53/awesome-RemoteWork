@@ -113,6 +113,8 @@ Awesome Remote Work
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
 
+- [Brighten](https://hellobrighten.com) - AI-powered employee recognition and onboarding platform. Helps remote teams celebrate wins with peer kudos, milestone tracking, and automated onboarding checklists. Free for small teams.
+
 ## Law
 
 ## Sponsor
