@@ -92,6 +92,7 @@ Awesome Remote Work
 - [https://reactjsjob.com](https://reactjsjob.com/remote/jobs) Remote React Jobs
 - [https://europeanremote.com](https://europeanremote.com) - selected European tech opportunities every week in your inbox
 - [https://okjob.io](https://www.okjob.io) - 4 day week job board
+- [https://4dayjob.com](https://4dayjob.com) - Remote and 4-day work week jobs across all industries, 1,500+ positions
 - [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
 
 ## Software
