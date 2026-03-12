@@ -98,6 +98,7 @@ Awesome Remote Work
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
 - [LambdaTest](https://www.lambdatest.com/) Cross Browser Testing Platform.
+- [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub. Privacy-first, all data on-device.
 - [Slack](https://slack.com/) for team communication.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
 - [Trello](https://trello.com/) free, flexible, and visual way to organize anything with anyone.
