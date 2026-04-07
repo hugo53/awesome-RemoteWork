@@ -112,6 +112,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ## Law
 
