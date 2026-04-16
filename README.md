@@ -67,6 +67,7 @@ Awesome Remote Work
 - [https://www.fossjobs.net/](https://www.fossjobs.net/) This is the first website exclusively for Free & Open Source jobs.
 - [https://www.golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html) Go/Golang jobs, filter on remote jobs
 - [https://jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) AI/Machine learning jobs, filter on remote jobs
+- [https://aidevboard.com](https://aidevboard.com) AI Dev Jobs — free jobs board aggregating 5,400+ AI/ML/LLM roles from 55+ ATS sources. MCP server + REST API + RSS feed for AI agents.
 - [https://jobspresso.co](https://jobspresso.co/) Curated list of remote jobs  
 - [https://www.skipthedrive.com](https://www.skipthedrive.com/)  Remote opportunities in all industries
 - [https://www.remotejobassistant.com](https://www.remotejobassistant.com)  Remote job assistant that helps you find and land remote jobs.  Specializes in non-technical roles.   
