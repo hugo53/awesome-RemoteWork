@@ -58,6 +58,7 @@ Awesome Remote Work
 - [http://workingnomads.co/](http://workingnomads.co/)
 - [http://www.teamed.io/](http://www.teamed.io/)
 - [http://www.toptal.com](http://www.toptal.com)
+- [https://web3vacancy.com](https://web3vacancy.com) — Remote-first web3 and crypto jobs across DeFi, security, and infrastructure. 2,400+ live listings updated every 5 minutes.
 - [wemake.services](https://wemake.services/)
 - [http://automattic.com/work-with-us/](http://automattic.com/work-with-us/). Made [https://wordpress.com/](Wordpress.com), has remote working culture and employees are from everywhere in the world.
 - [http://jobs.remotive.io/](http://jobs.remotive.io/), weekly update with remote jobs from startups.
