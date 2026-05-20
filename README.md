@@ -35,15 +35,12 @@ Awesome Remote Work
 
 ## Hiring Sites
 - [https://himalayas.app](https://himalayas.app) a dedicated remote job board
-- [https://workaline.com/](https://workaline.com/)
-- [https://remotesome.com/](https://remotesome.com/). Full-time remote-first enginnering jobs.
-- [https://whoishiring.io/](https://whoishiring.io/)
+- [https://whoishiring.io/](https://whoishiring.io/) not specifically remote
 - [https://findwork.dev/](https://findwork.dev). Jobs aggregator and search engine for software jobs.
-- [https://careervault.io](https://www.careervault.io). Thousands of remote jobs scraped every few hours from 900+ companies.
+- [https://careervault.io](https://www.careervault.io). Remote/hybrid jobs (seems all marked 2mo or more, possibly stale?)
 - [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
-- [https://dailyremote.com](https://dailyremote.com). Filter and find remote jobs for every role!
-- [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
-- [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
+- [https://dailyremote.com](https://dailyremote.com). jobs behind paywall
+- [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) telecommuting, part-time, flexible jobs, behind paywall
 - [https://remoterole.com/](https://remoterole.com/) a job board exclusively for remote and remote-friendly jobs.
 - [http://www.reddit.com/r/forhire/new/](http://www.reddit.com/r/forhire/). Subreddit for hiring, not purely a remote job page but have a lots.
 - [http://hnhiring.me/](http://hnhiring.me/) an aggregator site collects job from [HackerNews](https://news.ycombinator.com/), easier to read. 
