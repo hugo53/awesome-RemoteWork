@@ -112,6 +112,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [Jobaholic](https://jobaholic.app) - Chrome extension that auto-fills remote job applications across 8 ATS systems (Greenhouse, Lever, Workday, Ashby, Rippling, ADP MyJobs, Indeed, Phenom) with AI-generated cover letters per job description. Cuts a typical Workday application from 25 minutes to ~90 seconds. No LinkedIn UI automation (no account-restriction risk).
 
 ## Law
 
