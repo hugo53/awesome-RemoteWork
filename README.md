@@ -42,6 +42,7 @@ Awesome Remote Work
 - [https://careervault.io](https://www.careervault.io). Thousands of remote jobs scraped every few hours from 900+ companies.
 - [https://weworkremotely.com](https://weworkremotely.com). A page of [37Signals](http://37signals.com).
 - [https://dailyremote.com](https://dailyremote.com). Filter and find remote jobs for every role!
+- [Hanzilla Jobs Remote Canada](https://jobs.hanzilla.co/locations/remote/) - Daily-updated Canadian student and recent-grad remote-friendly jobs across internships, co-ops, new grad, junior, and entry-level roles.
 - [http://careers.stackoverflow.com/jobs/remote](http://careers.stackoverflow.com/jobs/remote). Job page of StackOverflow.
 - [http://www.flexjobs.com/jobs/](http://www.flexjobs.com/jobs/) a service purely focusing on telecommuting, part-time, flexible jobs.
 - [https://remoterole.com/](https://remoterole.com/) a job board exclusively for remote and remote-friendly jobs.
