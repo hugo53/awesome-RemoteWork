@@ -93,6 +93,7 @@ Awesome Remote Work
 - [https://europeanremote.com](https://europeanremote.com) - selected European tech opportunities every week in your inbox
 - [https://okjob.io](https://www.okjob.io) - 4 day week job board
 - [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
+- [Freaking Nomads](https://freakingnomads.com) - A curated community directory for digital nomads featuring places, workspaces, events, and resources.
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
