@@ -115,6 +115,8 @@ Awesome Remote Work
 
 ## Law
 
+- [LLC Class](https://llcclass.com) - [Wyoming LLC registration](https://llcclass.com/wyoming) for remote workers based outside the US; includes [registered agent for LLC](https://llcclass.com/what-is-llc-registered-agent), EIN, and Operating Agreement — enables access to Stripe, Mercury bank, and US client contracts
+
 ## Sponsor
 This repository is backed by [MindMac](https://mindmac.app), a user-friendly, fully customizable and **privacy-first** native app that enables seamless connection and effortless chatting with ChatGPT on macOS. It can be highly beneficial for your professional tasks. 
 
