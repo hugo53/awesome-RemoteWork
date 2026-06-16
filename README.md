@@ -112,6 +112,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [Superhighway](https://superhighway.walls.sh/guides/hr-research-agent) - Build a Python agent that researches HR technology markets, HRIS platforms, compensation benchmarks, and workforce analytics using live web search. Pay-per-call with USDC via x402.
 
 ## Law
 
