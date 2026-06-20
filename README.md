@@ -32,6 +32,7 @@ Awesome Remote Work
 - [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/) by Sarah McCasland a product manager at Modus Create.
 - [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication//) by Snir David.
 - [Effective Homeoffice: An opinionated guide to effectively work from home](https://effectivehomeoffice.com/) by Jochen Christ and Simon Harrer at INNOQ.
+- [How to Start a One Person Company (2026): The Operator's Guide](https://onepersoncompany.com/how-to-start-a-one-person-company). A practical guide for solo founders running a remote, one-person business with AI — covering the tech stack, automation, and day-to-day workflows.
 
 ## Hiring Sites
 - [https://himalayas.app](https://himalayas.app) a dedicated remote job board
