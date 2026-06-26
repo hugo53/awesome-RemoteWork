@@ -34,6 +34,7 @@ Awesome Remote Work
 - [Effective Homeoffice: An opinionated guide to effectively work from home](https://effectivehomeoffice.com/) by Jochen Christ and Simon Harrer at INNOQ.
 
 ## Hiring Sites
+- [https://meridianremote.com](https://meridianremote.com) remote tech jobs matched to your timezone for US, LATAM, and EU; aggregated and deduplicated from top boards and ATS feeds.
 - [https://himalayas.app](https://himalayas.app) a dedicated remote job board
 - [https://workaline.com/](https://workaline.com/)
 - [https://remotesome.com/](https://remotesome.com/). Full-time remote-first enginnering jobs.
