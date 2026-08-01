@@ -112,6 +112,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [Dopastep](https://dopastep.com/) - Live focus rooms for body doubling. Work alongside other people in synced focus and break rounds, with no camera and nothing to book.
 
 ## Law
 
