@@ -112,6 +112,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_remote_work&utm_content=software) - Free browser toolkit for freelance project scoping, quote boundaries, and change-request documentation.
 
 ## Law
 
