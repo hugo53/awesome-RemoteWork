@@ -97,6 +97,7 @@ Awesome Remote Work
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
+- [MeetMoves](https://chromewebstore.google.com/detail/meetmoves/pcihfjkbfcfademdaplkhmgngdlkfepg) use any video or GIF as your Google Meet background. Free, no OBS or virtual camera needed.
 - [LambdaTest](https://www.lambdatest.com/) Cross Browser Testing Platform.
 - [Slack](https://slack.com/) for team communication.
 - [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
