@@ -112,6 +112,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [BusinessOS](https://businessos.biz) - Encrypted, offline-first invoicing and accounting for remote workers and freelancers. Voice-to-invoice in 3 seconds, WhatsApp send, 40+ built-in calculators, multi-region tax. Free during limited early access.
 
 ## Law
 
