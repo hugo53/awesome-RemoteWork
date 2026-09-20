@@ -95,6 +95,7 @@ Awesome Remote Work
 - [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
 
 ## Software
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — Free browser freelance tools (invoice, timesheet, expense log) plus a small bilingual WhatsApp close pack.
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
 - [LambdaTest](https://www.lambdatest.com/) Cross Browser Testing Platform.
