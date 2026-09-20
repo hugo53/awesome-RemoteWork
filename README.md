@@ -114,6 +114,7 @@ Awesome Remote Work
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
 
 ## Law
+- [BestEOR](https://besteor.co) - Independent comparison of 63 employer-of-record providers and statutory employment costs across 139 countries, every figure cited to a primary source.
 
 ## Sponsor
 This repository is backed by [MindMac](https://mindmac.app), a user-friendly, fully customizable and **privacy-first** native app that enables seamless connection and effortless chatting with ChatGPT on macOS. It can be highly beneficial for your professional tasks. 
