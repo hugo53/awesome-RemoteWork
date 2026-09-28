@@ -33,6 +33,8 @@ Awesome Remote Work
 - [Written communication is remote work super power](https://snir.dev/blog/remote-async-communication//) by Snir David.
 - [Effective Homeoffice: An opinionated guide to effectively work from home](https://effectivehomeoffice.com/) by Jochen Christ and Simon Harrer at INNOQ.
 
+- [Will a Laser Pointer Show Up in a Screen Share?](https://light-tracer.com/laser-pointer-screen-share-zoom-teams/) by Light Tracer. A guide to pointer visibility and attendee-view checks for Zoom and Teams presentations.
+
 ## Hiring Sites
 - [https://himalayas.app](https://himalayas.app) a dedicated remote job board
 - [https://workaline.com/](https://workaline.com/)
