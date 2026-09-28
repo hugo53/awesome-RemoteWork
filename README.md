@@ -112,6 +112,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [RemoteHunt](https://chromewebstore.google.com/detail/hndndpgkabpgbejjkhhnofnjidbhdoam?utm_source=hugo53-awesome-remotework) - Free Chrome extension: on any job page, shows if the employer can hire in your country.
 
 ## Law
 
