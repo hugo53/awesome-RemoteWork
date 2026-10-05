@@ -74,6 +74,7 @@ Awesome Remote Work
 - [http://www.soshace.com](http://www.soshace.com) a Full-time jobs for React/Angular/Vue.js/Python/Java developers.
 - [https://www.lancegator.com/](https://www.lancegator.com/) - freelance jobs aggregator
 - [https://fullstackjob.com/remote/jobs](https://fullstackjob.com/remote/jobs) - Remote Full-Stack Developer Jobs
+- [https://gig.fish](https://gig.fish/discover) - free directory of 600+ gig and contract platforms, including remote AI training, paid research studies and user testing.
 - [https://alcamine.com](https://alcamine.com) - A special inbox that protects you from recruiting spam and scores job opportunities based on your preferences, location, and keywords.
 - [https://tiancai.co/](https://tiancai.co/). A platform that provides vetted network of freelance devs, UI designers and PMs with software/app/web development projects - 100% remote. 
 - [https://remotehub.io](https://remotehub.io) - lists remote companies with their locations, benefits, tech stack, and more
