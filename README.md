@@ -93,6 +93,7 @@ Awesome Remote Work
 - [https://europeanremote.com](https://europeanremote.com) - selected European tech opportunities every week in your inbox
 - [https://okjob.io](https://www.okjob.io) - 4 day week job board
 - [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
+- [Remote Jobs API](https://remote-jobs-api.tten.no) - Free, keyless REST API that aggregates 5+ live remote job boards (Remotive, RemoteOK, Jobicy, WWR, HN) into one normalized JSON feed with no auth, HTTPS, and CORS `*`. Docs: https://remote-jobs-api.tten.no/docs
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
