@@ -112,6 +112,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [Perfect Clock](https://perfectclock.cc) - World clock that shows your calendar events on the timelines of your team's cities, with working hours and holidays highlighted. Web and Chrome.
 
 ## Law
 
