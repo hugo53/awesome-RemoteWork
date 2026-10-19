@@ -112,6 +112,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [ScreenGuard](https://github.com/orvi2014/screenguard) - Free, open-source Chrome extension that blurs emails, card numbers and API keys while you screen share.
 
 ## Law
 
