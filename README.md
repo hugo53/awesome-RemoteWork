@@ -115,6 +115,9 @@ Awesome Remote Work
 
 ## Law
 
+- [Independent Contractor vs Employee Test](https://hrpaypick.com/independent-contractor-vs-employee-test/) - Free walkthrough of the IRS/DOL classification tests for hiring remote contractors.
+- [W-8BEN for International Contractors](https://hrpaypick.com/w-8ben-international-contractor-onboarding/) - Plain-English guide to onboarding non-US remote contractors.
+
 ## Sponsor
 This repository is backed by [MindMac](https://mindmac.app), a user-friendly, fully customizable and **privacy-first** native app that enables seamless connection and effortless chatting with ChatGPT on macOS. It can be highly beneficial for your professional tasks. 
 
