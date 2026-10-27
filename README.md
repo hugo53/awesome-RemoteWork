@@ -112,6 +112,8 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [puppetcam](https://github.com/cesaredavidepace/puppetcam), open-source cartoon avatar for video calls that works as a regular webcam in Zoom, Meet and Teams; runs locally on CPU.
+
 
 ## Law
 
