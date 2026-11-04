@@ -95,6 +95,7 @@ Awesome Remote Work
 - [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
 
 ## Software
+- [Kilobat](https://kilobat.app/digital-nomads) - Mac network checks and per-app traffic monitoring; free features with optional paid Pro.
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
 - [LambdaTest](https://www.lambdatest.com/) Cross Browser Testing Platform.
