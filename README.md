@@ -112,6 +112,7 @@ Awesome Remote Work
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
+- [Open World Clock](https://openworldclock.com/) - Free, open source world clock for Windows and the web, with a time zone converter and a meeting planner that shows working-hour overlaps.
 
 ## Law
 
