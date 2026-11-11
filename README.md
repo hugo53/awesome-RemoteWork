@@ -93,6 +93,7 @@ Awesome Remote Work
 - [https://europeanremote.com](https://europeanremote.com) - selected European tech opportunities every week in your inbox
 - [https://okjob.io](https://www.okjob.io) - 4 day week job board
 - [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
+- [https://stafka.com](https://stafka.com/remote-jobs/) - remote jobs open to applicants in Ukraine, Georgia, Armenia and Kazakhstan, plus anonymous candidate profiles for employers.
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
