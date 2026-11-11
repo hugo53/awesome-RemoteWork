@@ -113,6 +113,8 @@ Awesome Remote Work
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
 
+- [Novastart](https://novastart.com/) - Infinite canvas whiteboard OS for apps, shared canvases, and AI agents. Free plan available; team collaboration requires a paid plan.
+
 ## Law
 
 ## Sponsor
