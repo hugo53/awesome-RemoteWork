@@ -95,6 +95,8 @@ Awesome Remote Work
 - [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
 
 ## Software
+
+- [HumanPen](https://humanpen.net/) - Document-level AI humanize, translation (12 languages), condensing, citation format correction (12 styles), and scoped research projects.
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
 - [LambdaTest](https://www.lambdatest.com/) Cross Browser Testing Platform.
