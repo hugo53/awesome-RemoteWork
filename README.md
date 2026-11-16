@@ -111,6 +111,7 @@ Awesome Remote Work
 - [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
+- [HumanPen](https://humanpen.net/) - Document-level AI humanizer, 12-language translator, condenser, and citation formatter with REST API and 100 free signup credits.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
 
 ## Law
