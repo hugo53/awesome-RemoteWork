@@ -96,7 +96,7 @@ Awesome Remote Work
 
 ## Software
 
-- [HumanPen](https://humanpen.net/) - Document-level AI humanize, translation (12 languages), condensing, citation format correction (12 styles), and scoped research projects.
+- [HumanPen](https://humanpen.net/) - Document-level AI humanize, translation (12 languages), condensing, citation format correction (12 styles), and scoped research projects; 100 signup credits and commercial credit-based pricing.
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
 - [LambdaTest](https://www.lambdatest.com/) Cross Browser Testing Platform.
@@ -113,7 +113,6 @@ Awesome Remote Work
 - [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
-- [HumanPen](https://humanpen.net/) - Document-level AI humanizer, 12-language translator, condenser, and citation formatter with REST API and 100 free signup credits.
 - [mob](https://mob.sh) - CLI tool for swift Git Handover.
 
 ## Law
