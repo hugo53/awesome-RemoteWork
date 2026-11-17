@@ -94,6 +94,8 @@ Awesome Remote Work
 - [https://okjob.io](https://www.okjob.io) - 4 day week job board
 - [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
 
+- [https://openradar.fun](https://openradar.fun) - Open-source aggregator and search engine for remote tech jobs and engineering contracts with salary analytics.
+
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
 - [Zoom](https://zoom.us/) video conferece tool.
