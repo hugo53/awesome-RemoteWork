@@ -93,7 +93,7 @@ Awesome Remote Work
 - [https://europeanremote.com](https://europeanremote.com) - selected European tech opportunities every week in your inbox
 - [https://okjob.io](https://www.okjob.io) - 4 day week job board
 - [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
-- [https://nodjobs.com](https://nodjobs.com) - Hand-picked remote jobs sourced directly from company career pages, refreshed around the clock. Exact salaries shown free, direct apply, no duplicates, no stale posts, no signup.
+- [https://nodjobs.com](https://nodjobs.com) - Free board of remote jobs open to US residents; apply on the company's own page, pay range on most listings, closed jobs removed quickly, no signup.
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
